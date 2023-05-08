@@ -12,6 +12,6 @@ func Hello() {
 	}
 }
 
-func Hello2() {
+func Todo() {
 	fmt.Println("Hello World")
 }
